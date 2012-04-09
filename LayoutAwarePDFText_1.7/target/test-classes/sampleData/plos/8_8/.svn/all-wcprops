@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8
+END
+pbio.1000441.pdf_spatial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000441.pdf_spatial.xml
+END
+pbio.1000441.pdf_unclassifiedFlowAwareText.dat
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000441.pdf_unclassifiedFlowAwareText.dat
+END
+pbio.1000442.pdf_spatial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000442.pdf_spatial.xml
+END
+pbio.1000442.pdf_unclassifiedFlowAwareText.dat
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000442.pdf_unclassifiedFlowAwareText.dat
+END
+pbio.1000441.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000441.pdf
+END
+pbio.1000442.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000442.pdf
+END
+pbio.1000441.pdf_spatialFeatures.dat
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000441.pdf_spatialFeatures.dat
+END
+pbio.1000442.pdf_spatialFeatures.dat
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/target/test-classes/sampleData/plos/8_8/pbio.1000442.pdf_spatialFeatures.dat
+END

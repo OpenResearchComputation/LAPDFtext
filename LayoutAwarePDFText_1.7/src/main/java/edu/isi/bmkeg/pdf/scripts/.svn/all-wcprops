@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts
+END
+LogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/LogPanel.java
+END
+TextPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/TextPanel.java
+END
+CommandLineTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/CommandLineTool.java
+END
+PDFExtractionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/PDFExtractionConstants.java
+END
+CustomBatchProcessingTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/CustomBatchProcessingTool.java
+END
+LogTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/LogTarget.java
+END
+LogStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/scripts/LogStream.java
+END

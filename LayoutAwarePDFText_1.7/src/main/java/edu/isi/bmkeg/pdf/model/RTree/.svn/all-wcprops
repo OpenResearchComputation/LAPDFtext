@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree
+END
+RTSpatialEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTSpatialEntity.java
+END
+RTSpatialRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTSpatialRepresentation.java
+END
+RTChunkBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTChunkBlock.java
+END
+RTDummyProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTDummyProcedure.java
+END
+RTWordBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTWordBlock.java
+END
+RTPageBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTPageBlock.java
+END
+RTProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTProcedure.java
+END
+RTModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/RTree/RTModelFactory.java
+END

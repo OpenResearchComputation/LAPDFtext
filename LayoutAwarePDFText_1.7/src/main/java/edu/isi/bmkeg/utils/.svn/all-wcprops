@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils
+END
+IntegerFrequencyCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/IntegerFrequencyCounter.java
+END
+StringCleanerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/StringCleanerException.java
+END
+StringCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/StringCleaner.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/FileUtils.java
+END
+FrequencyCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/FrequencyCounter.java
+END
+PageImageOutlineRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/PageImageOutlineRenderer.java
+END
+PipelineLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/PipelineLauncher.java
+END
+ISI_UIMA_PDFUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/ISI_UIMA_PDFUtils.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/utils/ReflectionUtils.java
+END

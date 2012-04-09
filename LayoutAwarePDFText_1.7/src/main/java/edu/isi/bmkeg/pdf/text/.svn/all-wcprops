@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text
+END
+TextWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text/TextWriter.java
+END
+SpatiallyOrderedChunkTextWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text/SpatiallyOrderedChunkTextWriter.java
+END
+SpatiallyOrderedChunkTypeFilteredTextWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text/SpatiallyOrderedChunkTypeFilteredTextWriter.java
+END
+SectionBasedTextExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text/SectionBasedTextExtractor.java
+END
+SpatialLayoutFeaturesReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text/SpatialLayoutFeaturesReportGenerator.java
+END
+ReadWriteTextFileWithEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/text/ReadWriteTextFileWithEncoding.java
+END

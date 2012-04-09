@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/extraction/exceptions
+END
+AccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/extraction/exceptions/AccessException.java
+END
+InvalidPopularSpaceValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/extraction/exceptions/InvalidPopularSpaceValueException.java
+END
+EmptyPDFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/extraction/exceptions/EmptyPDFException.java
+END
+EncryptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/extraction/exceptions/EncryptionException.java
+END

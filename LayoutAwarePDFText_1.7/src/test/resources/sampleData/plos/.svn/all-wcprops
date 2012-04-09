@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/test/resources/sampleData/plos
+END
+pbio.1000441.pdf_spatial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/test/resources/sampleData/plos/pbio.1000441.pdf_spatial.xml
+END
+pbio.1000442.pdf_spatial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/test/resources/sampleData/plos/pbio.1000442.pdf_spatial.xml
+END
+pbio.1000441.pdf_spatialFeatures.dat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/test/resources/sampleData/plos/pbio.1000441.pdf_spatialFeatures.dat
+END
+pbio.1000442.pdf_spatialFeatures.dat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/test/resources/sampleData/plos/pbio.1000442.pdf_spatialFeatures.dat
+END

@@ -1,0 +1,37 @@
+#created on: Jul 30, 2010
+package edu.isi.bmkeg.pdf.classification.rules
+
+#list any import classes here.
+
+import edu.isi.bmkeg.pdf.features.ChunkFeatures;
+import edu.isi.bmkeg.pdf.model.ChunkBlock;
+
+#declare any global variables here
+
+global ChunkBlock    chunk;
+
+
+
+rule "Header"
+activation-group "blockClassification"
+salience 4
+	when
+		
+		 eval(chunk.getNumberOfLine()==1)
+		 ChunkFeatures(containingFirstLineOfPage==true)
+	then
+		 chunk.setType(chunk.TYPE_HEADER);
+end
+
+rule "Footer"
+activation-group "blockClassification"
+salience 4
+	when
+	    	
+	    	eval(chunk.getNumberOfLine()==1)
+	    	ChunkFeatures(containingLastLineOfPage==true)
+		
+	then
+			chunk.setType(chunk.TYPE_FOOTER);
+end 
+

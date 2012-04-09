@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/features
+END
+HorizontalSplitFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/features/HorizontalSplitFeature.java
+END
+ChunkFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/features/ChunkFeatures.java
+END
+WordFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/features/WordFeatures.java
+END

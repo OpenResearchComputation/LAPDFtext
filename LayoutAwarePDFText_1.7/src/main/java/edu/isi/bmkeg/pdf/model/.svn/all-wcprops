@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model
+END
+ChunkBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/ChunkBlock.java
+END
+WordBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/WordBlock.java
+END
+PageBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/PageBlock.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/Block.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/61/trunk/LayoutAwarePDFText_1.7/src/main/java/edu/isi/bmkeg/pdf/model/Document.java
+END
